@@ -23,44 +23,36 @@ Good urls for good designers
 
 
 ##Rassemblements
+
 <li> <a href="http://www.cig-chaumont.com/" target="_blank">Festival international de l’affiche et du graphisme de Chaumont</a></li>
 <li> <a href="https://www.typeparis.com/" target="_blank">Type@Paris</a></li>
-<a href="http://delure.org/" target="_blank">Les rencontres de Lure</a></li>
-															<li> <a href="http://www.fetedugraphisme.org/" target="_blank">La fête du graphisme</a></li>
-															<li> <a href="http://www.rencontres-arles.com/Home" target="_blank">Les rencontres de la photographie d'Arles</a></li>
-															<li> <a href="http://www.biennale-design.com/saint-etienne/" target="_blank">Biennale du Design de Saint-Etienne</a></li>
-															<li> <a href="http://gdfb.nl/en" target="_blank">Festival du design de Breda</a></li>
+</li><a href="http://delure.org/" target="_blank">Les rencontres de Lure</a></li>
+<li> <a href="http://www.fetedugraphisme.org/" target="_blank">La fête du graphisme</a></li>
+<li> <a href="http://www.rencontres-arles.com/Home" target="_blank">Les rencontres de la photographie d'Arles</a></li>
+<li> <a href="http://www.biennale-design.com/saint-etienne/" target="_blank">Biennale du Design de Saint-Etienne</a></li>
+<li> <a href="http://gdfb.nl/en" target="_blank">Festival du design de Breda</a></li>
+											
+##Collectifs
 
+<li> <a href="http://www.nerougissezpas.fr/" target="_blank">Ne Rougissez Pas !</a></li>
+<li> <a href="http://www.formes-vives.org/" target="_blank">Formes Vives</a></li>
+													
 
+##Journaux
 
+<li> <a href="http://www.povpaper.com/" target="_blank">POV Paper</a></li>
+<li> <a href="http://www.article11.info/" target="_blank">Article 11</a></li>
 
+##Fonderies
 
-
-													</ul>
-
-
-											<h3>Collectifs</h3>
-													<ul>
-															<li> <a href="http://www.nerougissezpas.fr/" target="_blank">Ne Rougissez Pas !</a></li>
-															<li> <a href="http://www.formes-vives.org/" target="_blank">Formes Vives</a></li>
-													</ul>
-
-											<h3>Journaux</h3>
-													<ul>
-															<li> <a href="http://www.povpaper.com/" target="_blank">POV Paper</a></li>
-															<li> <a href="http://www.article11.info/" target="_blank">Article 11</a></li>
-													</ul>
-
-											<h3>Fonderies</h3>
-													<ul>
-															<li> <a href="http://www.lift-type.fr/" target="_blank">Lift-Type</a></li>
-															<li> <a href="http://www.velvetyne.fr/" target="_blank">Velvetyne</a></li>
-															<li> <a href="http://usemodify.com/" target="_blank">Use and Modify</a></li>
-															<li> <a href="http://osp.kitchen" target="_blank"> Open Source Publishing </a></li>
-															<li> <a href="http://typotheque.interstices.io/" target="_blank"> Interstices </a></li>
-															<li> <a href="http://www.fontsquirrel.com/" target="_blank">Font Squirrel</a></li>
-															<li> <a href="http://www.love-letters.be/" target="_blank">Love Letters</a></li>
-															<li> <a href="http://yoworks.com/yofonts/index.html" target="_blank">YoFonts</a></li>
+<li> <a href="http://www.lift-type.fr/" target="_blank">Lift-Type</a></li>
+<li> <a href="http://www.velvetyne.fr/" target="_blank">Velvetyne</a></li>
+<li> <a href="http://usemodify.com/" target="_blank">Use and Modify</a></li>
+<li> <a href="http://osp.kitchen" target="_blank"> Open Source Publishing </a></li>
+<li> <a href="http://typotheque.interstices.io/" target="_blank"> Interstices </a></li>
+<li> <a href="http://www.fontsquirrel.com/" target="_blank">Font Squirrel</a></li>
+<li> <a href="http://www.love-letters.be/" target="_blank">Love Letters</a></li>
+<li> <a href="http://yoworks.com/yofonts/index.html" target="_blank">YoFonts</a></li>
 
 
 
