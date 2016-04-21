@@ -1,7 +1,6 @@
 # network
 Good urls for good designers
 
-			<h3>Culture du design</h3>
 											<ul>
 						<li><a class="popup" href="http://www.cnap.graphismeenfrance.fr/" target="_blank">Graphisme en France<span><img src="http://www.undressed-design.com/wp-content/uploads/2014/01/GraphismeEnFrance_02.jpg">« Graphisme en France » est la plateforme numérique du Centre national des arts plastiques dédiée au design graphique en France : tous les événements, les lieux et les personnalités qui témoignent de la créativité et de la vitalité de la scène française du graphisme.</span></a> </li>
 						<li><a class="popup" href="http://strabic.fr/" target="_blank">Strabic<span><img src="http://ultragramme.com/IMG/gif/gif-strabic-web.gif">Strabic.fr est née d’une volonté profonde : parler de design sans paillettes ni projecteurs, de forme et de fond, de ce qui se fait et ce qui peut se faire, de pourquoi et comment cela se fait, d’extravagance et d’excursions, avec exigence et exotisme.</span></a> </li>
