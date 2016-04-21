@@ -92,13 +92,13 @@ Good urls for good designers
 
 <li> <a href="http://www.cnap.fr/sites/default/files/publication/138360_commandedesigngraphique_web.pdf" target="_blank"> La commande de design graphique - Cnap</a></li>
 <li> <a href="http://graphism.fr/jbraynal_memoire_textes.pdf" target="_blank"><i class="fa fa-file-o"></i> Le graphisme engagé est-il encore d’actualité ? - Jean-Baptiste Raynal</a></li>
-						<li> <a href="http://typo.thomaslexcellent.com/memoire.pdf" target="_blank"><i class="fa fa-file-o"></i> Penser la typographie en couleurs - Thomas l'Excellent</a></li>
-						<li> <a href="http://www.cnap.graphismeenfrance.fr/sites/default/files/livret_serie_graphique.pdf" target="_blank"><i class="fa fa-file-o"></i> Série Graphique - Fanette Mellier</a></li>
-						<li> <a href="http://www.softphd.com/downloads/Th%C3%A8se%20Anthony%20Masure%20-%20Le%20design%20des%20programmes%20%282014%29.pdf" target="_blank"><i class="fa fa-file-o"></i> Thèse Anthony Masure - Le design des programmes (2014)</a></li>
-						<li> <a href="http://www.etienneozeray.fr/PourUnDesignGraphiqueLibre_v2.1/PourUnDesignGraphiqueLibre_v2-1_screen.pdf" target="_blank"><i class="fa fa-file-o"></i> Thèse Etienne Ozeray - Pour un design graphique libre (2016)</a></li>
-						<li> <a href="http://www.ensci.com/uploads/media/memoire_Matthieu_Vergote.pdf" target="_blank"><i class="fa fa-file-o"></i> Thèse Matthieu Vergote - Le DIY contemporain (2014)</a></li>
-						<li> <a href="http://www.ecal.ch/download/wysiwyg/657bcde7c2efb8844d63bdc6b8f9f04b.pdf/ECAL_MateoBroillet.pdf" target="_blank"><i class="fa fa-file-o"></i> Mémoire Mateo Broillet - Formes politiques ? (2014)</a></li>
-						<li> <a href="http://archivesic.ccsd.cnrs.fr/sic_01135984/document" target="_blank"><i class="fa fa-file-o"></i> Comment la sémiotique peut-elle aider le designer à concevoir des stratégies d'innovation ? (2015)</a></li>
+<li> <a href="http://typo.thomaslexcellent.com/memoire.pdf" target="_blank">Penser la typographie en couleurs - Thomas l'Excellent</a></li>
+<li> <a href="http://www.cnap.graphismeenfrance.fr/sites/default/files/livret_serie_graphique.pdf" target="_blank">Série Graphique - Fanette Mellier</a></li>
+<li> <a href="http://www.softphd.com/downloads/Th%C3%A8se%20Anthony%20Masure%20-%20Le%20design%20des%20programmes%20%282014%29.pdf" target="_blank"> Thèse Anthony Masure - Le design des programmes (2014)</a></li>
+<li> <a href="http://www.etienneozeray.fr/PourUnDesignGraphiqueLibre_v2.1/PourUnDesignGraphiqueLibre_v2-1_screen.pdf" target="_blank">Thèse Etienne Ozeray - Pour un design graphique libre (2016)</a></li>
+<li> <a href="http://www.ensci.com/uploads/media/memoire_Matthieu_Vergote.pdf" target="_blank"> Thèse Matthieu Vergote - Le DIY contemporain (2014)</a></li>
+<li> <a href="http://www.ecal.ch/download/wysiwyg/657bcde7c2efb8844d63bdc6b8f9f04b.pdf/ECAL_MateoBroillet.pdf" target="_blank">Mémoire Mateo Broillet - Formes politiques ? (2014)</a></li>
+<li> <a href="http://archivesic.ccsd.cnrs.fr/sic_01135984/document" target="_blank"> Comment la sémiotique peut-elle aider le designer à concevoir des stratégies d'innovation ? (2015)</a></li>
 
 
 
