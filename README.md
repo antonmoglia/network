@@ -1,30 +1,14 @@
 # network
 Good urls for good designers
 
-Ressources
-						
-										<a class="popup" href="http://bench.li/" target="_blank">Bench.li<span>Design Inspiration<img src="http://s3.bench.li/images/original/35630.jpg"></span></a> </li>
-											<li><a class="popup" href="http://andren.tumblr.com/" target="_blank">Dark Side of typography<span>Design Inspiration<img src="http://41.media.tumblr.com/a7cae023a458dbf41c1a9c5958f49dcd/tumblr_o2qj30sZqU1r5tg6do1_1280.jpg"></span></a> </li>
-											<li> <a href="http://graphic-porn.com/" target="_blank">Graphic Porn</a></li>
-											<li> <a href="http://www.booooooom.com/" target="_blank">Booooooom</a></li>
-											<li> <a href="http://booksfromthefuture.tumblr.com/" target="_blank">Books from the future</a></li>
-											<li> <a href="http://www.trendlist.org/" target="_blank">Trend List</a></li>
-											<li> <a href="http://www.artofthetitle.com/" target="_blank">Art of The Title</a></li>
-											<li> <a href="http://inspirimgrafik.tumblr.com/" target="_blank">Inspirimgrafik</a></li>
-											<li> <a href="	http://www.cnap.fr/collection-en-ligne" target="_blank">La collection en ligne du Cnap</a></li>
 
-
-
-									</ul>
-
-
-									<h3>Culture du design</h3>
-											<ul>
-						<li><a class="popup" href="http://www.cnap.graphismeenfrance.fr/" target="_blank">Graphisme en France<span><img src="http://www.undressed-design.com/wp-content/uploads/2014/01/GraphismeEnFrance_02.jpg">« Graphisme en France » est la plateforme numérique du Centre national des arts plastiques dédiée au design graphique en France : tous les événements, les lieux et les personnalités qui témoignent de la créativité et de la vitalité de la scène française du graphisme.</span></a> </li>
-						<li><a class="popup" href="http://strabic.fr/" target="_blank">Strabic<span><img src="http://ultragramme.com/IMG/gif/gif-strabic-web.gif">Strabic.fr est née d’une volonté profonde : parler de design sans paillettes ni projecteurs, de forme et de fond, de ce qui se fait et ce qui peut se faire, de pourquoi et comment cela se fait, d’extravagance et d’excursions, avec exigence et exotisme.</span></a> </li>
-													<li> <a href="http://indexgrafik.fr/" target="_blank">Index Grafik</a></li>
-													<li> <a href="http://www.anthonymasure.com/" target="_blank">Anthony Masure</a></li>
-													<li> <a href="http://www.t-o-m-b-o-l-o.eu/" target="_blank">Tombolo</a></li>
+Culture du design
+										
+http://www.cnap.graphismeenfrance.fr
+http://strabic.fr
+http://indexgrafik.fr
+http://www.anthonymasure.com
+http://www.t-o-m-b-o-l-o.eu
 													<li> <a href="http://graphism.fr/" target="_blank">Graphisme et interactivité</a></li>
 													<li> <a href="http://reelvirtuel.univ-paris1.fr/" target="_blank">Réel / Virtuel</a></li>
 													<li> <a href="http://typogabor.com" target="_blank">Typogabor</a></li>
