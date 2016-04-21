@@ -54,60 +54,44 @@ Good urls for good designers
 <li> <a href="http://www.love-letters.be/" target="_blank">Love Letters</a></li>
 <li> <a href="http://yoworks.com/yofonts/index.html" target="_blank">YoFonts</a></li>
 
+##TV
 
+<li> <a href="https://www.youtube.com/watch?v=oxrzJYpS5WQ" target="_blank">Arial is a font</a></li>
+<li> <a href="http://www.gestalten.tv/" target="_blank">Gestalten.tv</a></li>
+<li> <a href="http://www.graphisme.tv/" target="_blank">Graphisme.tv</a></li>
+<li> <a href="http://www.ted.com/talks/chip_kidd_the_art_of_first_impressions_in_design_and_life" target="_blank">L'Art de la première impression - Chip Kidd</a></li>
 
-													</ul>
+##Cours
 
-													<h3>TV</h3>
-															<ul>
-																	<li> <a href="https://www.youtube.com/watch?v=oxrzJYpS5WQ" target="_blank">Arial is a font</a></li>
-																	<li> <a href="http://www.gestalten.tv/" target="_blank">Gestalten.tv</a></li>
-																	<li> <a href="http://www.graphisme.tv/" target="_blank">Graphisme.tv</a></li>
-																	<li> <a href="http://www.ted.com/talks/chip_kidd_the_art_of_first_impressions_in_design_and_life" target="_blank">L'Art de la première impression - Chip Kidd</a></li>
+<li> <a href="http://www.ecole-art-aix.fr/rubrique81.html" target="_blank">Processing - Ecole Supérieure d'Art d'Aix</a></li>
 
+##Outils
 
+<li> <a href="https://trufont.github.io/" target="_blank">Trufont</a></li>
+<li> <a href="http://www.ofont.net/" target="_blank">Ofont</a></li>
+<li> <a href="https://atom.io/" target="_blank">Atom</a></li>
+<li> <a href="https://Framapad.org/" target="_blank">Framapad</a></li>
+<li> <a href="http://www.janusnotes.com/" target="_blank">Janus Notes</a></li>
+<li> <a href="http://alternativeto.net/" target="_blank">Alternative to</a></li>
+<li> <a href="http://lastbutnotliste.com/" target="_blank">Last But Not Liste</a></li>
+<li> <a href="http://getthefont.com/" target="_blank">Get the font</a></li>
+<li> <a href="http://framabag.org/" target="_blank">Framabag</a></li>
 
-															</ul>
-															<h3>Cours</h3>
-																	<ul>
-																		<li> <a href="http://www.ecole-art-aix.fr/rubrique81.html" target="_blank">Processing - Ecole Supérieure d'Art d'Aix</a></li>
+##Podcasts
 
+<li> <a href="https://www.youtube.com/user/TheWalkingWebLive" target="_blank">The Walking Web</a></li>
+<li> <a href="https://soundcloud.com/du-fond-de-loeil" target="_blank">Du fond de l'oeil</a></li>
 
-						</ul>
-													<h3>Outils</h3>
-															<ul>
-																	<li> <a href="https://trufont.github.io/" target="_blank">Trufont</a></li>
-																	<li> <a href="http://www.ofont.net/" target="_blank">Ofont</a></li>
-																	<li> <a href="https://atom.io/" target="_blank">Atom</a></li>
-																	<li> <a href="https://Framapad.org/" target="_blank">Framapad</a></li>
-																	<li> <a href="http://www.janusnotes.com/" target="_blank">Janus Notes</a></li>
-																	<li> <a href="http://alternativeto.net/" target="_blank">Alternative to</a></li>
-																	<li> <a href="http://lastbutnotliste.com/" target="_blank">Last But Not Liste</a></li>
-																	<li> <a href="http://getthefont.com/" target="_blank">Get the font</a></li>
-																	<li> <a href="http://framabag.org/" target="_blank">Framabag</a></li>
+##Concours
 
-															</ul>
+<li> <a href="http://www.pressecitron.org/" target="_blank">Presse-Citron</a></li>
+<li><a class="popup" href="http://www.pangramme.org/" target="_blank">Pangramme</a></li>
+<li> <a href="http://www.prixfernandbaudinprijs.be" target="_blank">Prix Fernand Baudin</a></li>
+	
+##Documentation
 
-															<h3>Podcasts</h3>
-																	<ul>
-																			<li> <a href="https://www.youtube.com/user/TheWalkingWebLive" target="_blank">The Walking Web</a></li>
-																			<li> <a href="https://soundcloud.com/du-fond-de-loeil" target="_blank">Du fond de l'oeil</a></li>
-
-																	</ul>
-																	<h3>Concours</h3>
-																			<ul>
-
-																					<li> <a href="http://www.pressecitron.org/" target="_blank">Presse-Citron</a></li>
-																					<li><a class="popup" href="http://www.pangramme.org/" target="_blank">Pangramme<span>Pangramme Exposition internationale de création de caractères d'étudiants <img src="http://www.pangramme.org/img/Fox.gif"></span></a> </li>
-																					<li> <a href="http://www.prixfernandbaudinprijs.be" target="_blank">Prix Fernand Baudin</a></li>
-																			</ul>
-
-
-
-															<h3>Documentation</h3>
-																	<ul>
-																			<li> <a href="http://www.cnap.fr/sites/default/files/publication/138360_commandedesigngraphique_web.pdf" target="_blank"><i class="fa fa-file-o"></i> La commande de design graphique - Cnap</a></li>
-						<li> <a href="http://graphism.fr/jbraynal_memoire_textes.pdf" target="_blank"><i class="fa fa-file-o"></i> Le graphisme engagé est-il encore d’actualité ? - Jean-Baptiste Raynal</a></li>
+<li> <a href="http://www.cnap.fr/sites/default/files/publication/138360_commandedesigngraphique_web.pdf" target="_blank"> La commande de design graphique - Cnap</a></li>
+<li> <a href="http://graphism.fr/jbraynal_memoire_textes.pdf" target="_blank"><i class="fa fa-file-o"></i> Le graphisme engagé est-il encore d’actualité ? - Jean-Baptiste Raynal</a></li>
 						<li> <a href="http://typo.thomaslexcellent.com/memoire.pdf" target="_blank"><i class="fa fa-file-o"></i> Penser la typographie en couleurs - Thomas l'Excellent</a></li>
 						<li> <a href="http://www.cnap.graphismeenfrance.fr/sites/default/files/livret_serie_graphique.pdf" target="_blank"><i class="fa fa-file-o"></i> Série Graphique - Fanette Mellier</a></li>
 						<li> <a href="http://www.softphd.com/downloads/Th%C3%A8se%20Anthony%20Masure%20-%20Le%20design%20des%20programmes%20%282014%29.pdf" target="_blank"><i class="fa fa-file-o"></i> Thèse Anthony Masure - Le design des programmes (2014)</a></li>
@@ -118,6 +102,3 @@ Good urls for good designers
 
 
 
-
-
-																	</ul>
