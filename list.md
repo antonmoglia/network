@@ -1,4 +1,4 @@
-# network
+# Network
 Good urls for good designers
 
 
@@ -22,11 +22,10 @@ Good urls for good designers
 <li> <a href="http://disruptions.fr" target="_blank">Disruptions</a></li>
 
 
-											<h3>Rassemblements</h3>
-													<ul>
-															<li> <a href="http://www.cig-chaumont.com/" target="_blank">Festival international de l’affiche et du graphisme de Chaumont</a></li>
-															<li> <a href="https://www.typeparis.com/" target="_blank">Type@Paris</a></li>
-															<li> <a href="http://delure.org/" target="_blank">Les rencontres de Lure</a></li>
+##Rassemblements
+<li> <a href="http://www.cig-chaumont.com/" target="_blank">Festival international de l’affiche et du graphisme de Chaumont</a></li>
+<li> <a href="https://www.typeparis.com/" target="_blank">Type@Paris</a></li>
+<a href="http://delure.org/" target="_blank">Les rencontres de Lure</a></li>
 															<li> <a href="http://www.fetedugraphisme.org/" target="_blank">La fête du graphisme</a></li>
 															<li> <a href="http://www.rencontres-arles.com/Home" target="_blank">Les rencontres de la photographie d'Arles</a></li>
 															<li> <a href="http://www.biennale-design.com/saint-etienne/" target="_blank">Biennale du Design de Saint-Etienne</a></li>
