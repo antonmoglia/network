@@ -1,25 +1,26 @@
 # network
 Good urls for good designers
 
-<li><a href="http://www.cnap.graphismeenfrance.fr/" target="_blank">Graphisme en France<span><img src="http://www.undressed-design.com/wp-content/uploads/2014/01/GraphismeEnFrance_02.jpg">« Graphisme en France » est la plateforme numérique du Centre national des arts plastiques dédiée au design graphique en France : tous les événements, les lieux et les personnalités qui témoignent de la créativité et de la vitalité de la scène française du graphisme.</span></a> </li>
-<li><a class="popup" href="http://strabic.fr/" target="_blank">Strabic<span><img src="http://ultragramme.com/IMG/gif/gif-strabic-web.gif">Strabic.fr est née d’une volonté profonde : parler de design sans paillettes ni projecteurs, de forme et de fond, de ce qui se fait et ce qui peut se faire, de pourquoi et comment cela se fait, d’extravagance et d’excursions, avec exigence et exotisme.</span></a> </li>
-													<li> <a href="http://indexgrafik.fr/" target="_blank">Index Grafik</a></li>
-													<li> <a href="http://www.anthonymasure.com/" target="_blank">Anthony Masure</a></li>
-													<li> <a href="http://www.t-o-m-b-o-l-o.eu/" target="_blank">Tombolo</a></li>
-													<li> <a href="http://graphism.fr/" target="_blank">Graphisme et interactivité</a></li>
-													<li> <a href="http://reelvirtuel.univ-paris1.fr/" target="_blank">Réel / Virtuel</a></li>
-													<li> <a href="http://typogabor.com" target="_blank">Typogabor</a></li>
-													<li> <a href="http://www.pointypo.com/" target="_blank">Pointypo</a></li>
-													<li> <a href="http://www.manystuff.org/" target="_blank">ManyStuff</a></li>
-													<li> <a href="http://crapisgood.com/" target="_blank">Crap is Good</a></li>
-													<li> <a href="http://k-t-l-g.com" target="_blank">Katalog</a></li>
-													<li> <a href="http://signes.org" target="_blank">La revue Signes</a></li>
-													<li> <a href="http://p-dpa.net" target="_blank">Post-Digital Publishing Archive</a></li>
-													<li> <a href="http://caracteres.ch" target="_blank">Caractères.ch</a></li>
-													<li> <a href="http://disruptions.fr" target="_blank">Disruptions</a></li>
 
+## Culture du design
 
-											</ul>
+<li><a href="http://www.cnap.graphismeenfrance.fr/" target="_blank">Graphisme en France</a> </li>
+<li><a href="http://strabic.fr/" target="_blank">Strabic</a> </li>
+<li> <a href="http://indexgrafik.fr/" target="_blank">Index Grafik</a></li>
+<li> <a href="http://www.anthonymasure.com/" target="_blank">Anthony Masure</a></li>
+<li> <a href="http://www.t-o-m-b-o-l-o.eu/" target="_blank">Tombolo</a></li>
+<li> <a href="http://graphism.fr/" target="_blank">Graphisme et interactivité</a></li>
+<li> <a href="http://reelvirtuel.univ-paris1.fr/" target="_blank">Réel / Virtuel</a></li>
+<li> <a href="http://typogabor.com" target="_blank">Typogabor</a></li>
+<li> <a href="http://www.pointypo.com/" target="_blank">Pointypo</a></li>
+<li> <a href="http://www.manystuff.org/" target="_blank">ManyStuff</a></li>
+<li> <a href="http://crapisgood.com/" target="_blank">Crap is Good</a></li>
+<li> <a href="http://k-t-l-g.com" target="_blank">Katalog</a></li>
+<li> <a href="http://signes.org" target="_blank">La revue Signes</a></li>
+<li> <a href="http://p-dpa.net" target="_blank">Post-Digital Publishing Archive</a></li>
+<li> <a href="http://caracteres.ch" target="_blank">Caractères.ch</a></li>
+<li> <a href="http://disruptions.fr" target="_blank">Disruptions</a></li>
+
 
 											<h3>Rassemblements</h3>
 													<ul>
